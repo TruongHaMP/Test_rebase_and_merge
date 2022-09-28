@@ -10,3 +10,7 @@ cap nhat boi beta b1
 
 
 cap nhat boi boi beta b2
+
+
+cap nhat boi main c1
+cap nhat boi main c2
