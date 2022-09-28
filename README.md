@@ -2,3 +2,6 @@
 cap nhat boi main a1
 cap nhat boi main a2
 cap nhat boi main a3
+
+
+cap nhat boi main c1
