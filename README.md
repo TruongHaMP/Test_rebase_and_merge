@@ -5,3 +5,4 @@ cap nhat boi main a3
 
 
 cap nhat boi main c1
+cap nhat boi main c2
